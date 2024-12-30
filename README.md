@@ -1,7 +1,7 @@
 # loglib
 
 So, this is my first library which written in C programming language.
-You can use or copy my loglib.h file for your purposes.
+You can use, copy or even modify my loglib.h file for your purposes.
 
 This is kind of logger for your software.
 
